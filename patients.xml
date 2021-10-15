@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patients xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance">
+    <patient id="1">
+        <surname>Bakhtin</surname> 
+        <name>Danil</name>
+        <patronymic>Ruslanovich</patronymic>
+        <birthday>2000-02-25</birthday>
+        <policynumber>12345678</policynumber>
+        <test>
+            <type>IgG</type>
+            <date>2021-10-11</date>
+            <idlab>25</idlab>
+        </test>
+    </patient>
+</patients>
